@@ -1,1 +1,65 @@
-<mxfile host="app.diagrams.net" modified="2022-01-27T05:33:12.910Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36 Edg/95.0.1020.40" etag="J7USggRhM4lsWspMC_WO" version="16.4.2" type="github"><diagram name="Page-1" id="10a91c8b-09ff-31b1-d368-03940ed4cc9e">7VtNc5swEP01HNMByXwdYzdJD22nM5lpp0cVZKCRkUeWY7u/vsIWGFlxAjgp6kQns6tFSPueJe0zduBssb1jaJl/oSkmDnDTrQM/OgB4EzcSH5Vnd/CEE+nIWJHKoKPjvviDpdOV3nWR4pUSyCklvFiqzoSWJU644kOM0Y0aNqdEfeoSZVhz3CeI6N4fRcpz6fVc99jwCRdZLh8d+bLhF0oeMkbXpXxeSUt8aFmguhsZuspRSjctF7xx4IxRyg9Xi+0MkyqtdcYO992eaW2GzHDJu9wQgCiGXhQl7hyFMABXsodHRNYyDTNapgUvaClHzHd1gjZ5wfH9EiWVvREkcOA05wsiLE9c7jOAU2k1M60Mgn5hMm3SNKOEMtG0T5QI5Yw+NDmv4ue05LdoUZCKSt8xS1GJpFvyxhOpmyJSZKUwEjF7LDqc6umo54cZx9uWS6bnDtMF5mwnQmRrUNNRsrgGedOiRI1m3mJDIH1IsjBrej7CIS4kIh3RARo6DggIr3K2RAKgIKuuW4gdGsVz2u3vE8gJVIH0wjGRhBbJwUiGkUlITjQkv1INl2PiXRWRl9KOGL+u9rIT321RDXDf2d6WKfeFjcv05A7hacULqxX9G3O+kzZacypclPGcZrRE5DOly5orwwhwDuwVXbMEP78HiXllmJ+Jkd8fnCp7+FnKXLkfoOsClTayD4YJ4sWjuus/RRHZ+zdaiNkcQ+h8vhLjPOVQM4hhtPI1Wv0UhyHLqzfmFejPKz9WaHXleSbzKrIbz+CNBwJ14wHRmBtPbJEcjKQ/MQnJusR4Acrr5E1wdC/BEYxcncVG4ahXzxbHTjhGkVE42jp7OJReoEIJY39MKG2hfYFkEhsFpV5p25LowpJI3vZsSSQrhh4lkVpnN8CZWRB5eqVtBZy3Z1V8IasMJ1Vg16rXZhXswKq6kupDq6CmUrNeGS0MeqFdr8ZgltebWR6IVWbV0BlKLF0atGvWhcyKujCrv+Ysiqzovzpj6VqlXbP+AbP6/0oGosnJOQuYTCygK6e1uvYeZbRQrdd9d0wVDVg1dCCMzUtGZuDYTQ21OOr6mfbu2Kg4dpNCLY76r4WRUThaHfT1Xw3pIlmBnuKCqABhCE/O6YHRxymrhY7DrJ7iwhPMMpxYVg99fWZ1ka3qw1t3ZrkuPF2zzC4BrR46DrN6iguGrVnCPP7N5hB+/BsTvPkL</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-27T14:11:30.633Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36 Edg/95.0.1020.40" etag="mqkMYTNyoGQYsJOE1jVv" version="16.4.2" type="github">
+  <diagram name="Page-1" id="10a91c8b-09ff-31b1-d368-03940ed4cc9e">
+    <mxGraphModel dx="848" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mDW-KqoNKcnAB8Wgu94j-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="62893188c0fa7362-1" target="62893188c0fa7362-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mDW-KqoNKcnAB8Wgu94j-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="62893188c0fa7362-1" target="mDW-KqoNKcnAB8Wgu94j-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="62893188c0fa7362-1" value="JD-final-data" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="455" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="62893188c0fa7362-2" value="Save Raw Data for developing" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="290" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="62893188c0fa7362-3" value="Response:&lt;br&gt;Encrypt doesn&#39;t match" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="575" y="365" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mDW-KqoNKcnAB8Wgu94j-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="62893188c0fa7362-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="515" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="62893188c0fa7362-8" value="Is Encrypt_data matched?" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="455" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="62893188c0fa7362-12" value="Response in required format" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="280" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="62893188c0fa7362-13" value="If timestamp wrong" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="140" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="62893188c0fa7362-18" value="Yes" style="rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=none;endFill=0;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" source="62893188c0fa7362-8" edge="1">
+          <mxGeometry x="-0.2168" y="-14" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="386.08913043478253" y="365" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="62893188c0fa7362-19" value="No" style="rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=none;endFill=0;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" source="62893188c0fa7362-8" edge="1">
+          <mxGeometry x="-0.2842" y="12" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="630.0021739130435" y="365" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mDW-KqoNKcnAB8Wgu94j-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="mDW-KqoNKcnAB8Wgu94j-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="515" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mDW-KqoNKcnAB8Wgu94j-1" value="decode Logistics_info&amp;nbsp;&lt;br&gt;Save to Order_table&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;(For testing purpose, We save all order_data for now)&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="440" y="100" width="150" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="mDW-KqoNKcnAB8Wgu94j-21" value="先不處理，假設timestamp&lt;br&gt;都是正確的" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="260" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mDW-KqoNKcnAB8Wgu94j-25" value="目前將驗證放在最後面，為了：&lt;br&gt;1 測試性能&lt;br&gt;2 了解京東到底會如何傳數據過來。&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span&gt;包含：格式、請求的數量..等等&lt;/span&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
+          <mxGeometry x="610" y="240" width="180" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
